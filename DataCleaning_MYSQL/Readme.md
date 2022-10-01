@@ -9,3 +9,4 @@
 - Creation of new columns from existing one 
 - Addressing the inconsistent column. 
 > I hope this will help you in your journey of becoming a data scientist.
+
