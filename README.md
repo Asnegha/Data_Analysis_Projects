@@ -1,1 +1,3 @@
-# DataScience_and_me_at_21
+# DataScience and me at 21
+
+### Here is my repo where I share all the projects I did as a part of my Data Science journey. 
